@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# MAC OS
+.DS_Store
+
+# swap file
+.swp
