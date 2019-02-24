@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "country": "KR",
+    "start": "2018-01-01T00:00:00",
+    "stop": "2019-02-23T15:24:29"
+  },
+  "isps": [
+    {
+      "asn": 4766,
+      "pct": 40.77226454397468,
+      "name": "KIXS-AS-KR",
+      "outages": []
+    },
+    {
+      "asn": 9318,
+      "pct": 16.962107272121905,
+      "name": "SKB-AS",
+      "outages": []
+    },
+    {
+      "asn": 9644,
+      "pct": 10.765890008896667,
+      "name": "SKTELECOM-NET-AS",
+      "outages": []
+    },
+    {
+      "asn": 17858,
+      "pct": 10.746205075483262,
+      "name": "POWERVIS-AS-KR",
+      "outages": []
+    },
+    {
+      "asn": 17853,
+      "pct": 6.994110667772919,
+      "name": "LGTELECOM-AS-KR",
+      "outages": []
+    },
+    {
+      "asn": 3786,
+      "pct": 3.7851589443031726,
+      "name": "LGDACOM",
+      "outages": []
+    },
+    {
+      "asn": 10036,
+      "pct": 1.0734440251997905,
+      "name": "CNM-AS-KR",
+      "outages": []
+    }
+  ]
+}

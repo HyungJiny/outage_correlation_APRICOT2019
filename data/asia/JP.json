@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "country": "JP",
+    "start": "2018-01-01T00:00:00",
+    "stop": "2019-02-23T15:19:24"
+  },
+  "isps": [
+    {
+      "asn": 17676,
+      "pct": 20.946020156798344,
+      "name": "GIGAINFRA",
+      "outages": []
+    },
+    {
+      "asn": 2516,
+      "pct": 19.678360585050402,
+      "name": "KDDI",
+      "outages": []
+    },
+    {
+      "asn": 4713,
+      "pct": 14.54708221539985,
+      "name": "OCN",
+      "outages": []
+    },
+    {
+      "asn": 9605,
+      "pct": 8.67112503479468,
+      "name": "DOCOMO",
+      "outages": []
+    },
+    {
+      "asn": 2527,
+      "pct": 3.4266440958874576,
+      "name": "SO-NET",
+      "outages": []
+    },
+    {
+      "asn": 17511,
+      "pct": 2.9268210475421736,
+      "name": "K-OPTICOM",
+      "outages": []
+    },
+    {
+      "asn": 9824,
+      "pct": 2.9119443238616256,
+      "name": "JTCL-JP-AS",
+      "outages": []
+    },
+    {
+      "asn": 2518,
+      "pct": 2.480722729832306,
+      "name": "BIGLOBE",
+      "outages": []
+    },
+    {
+      "asn": 17506,
+      "pct": 1.6939125725167639,
+      "name": "UCOM",
+      "outages": []
+    },
+    {
+      "asn": 2497,
+      "pct": 1.626647698843974,
+      "name": "IIJ",
+      "outages": []
+    },
+    {
+      "asn": 2519,
+      "pct": 1.5072852361883278,
+      "name": "VECTANT",
+      "outages": []
+    },
+    {
+      "asn": 2514,
+      "pct": 1.331437713308101,
+      "name": "INFOSPHERE",
+      "outages": []
+    },
+    {
+      "asn": 2510,
+      "pct": 1.2050727303262594,
+      "name": "INFOWEB",
+      "outages": []
+    },
+    {
+      "asn": 10010,
+      "pct": 1.1188923349424602,
+      "name": "TOKAI",
+      "outages": []
+    },
+    {
+      "asn": 18126,
+      "pct": 1.1117154780106333,
+      "name": "CTCX",
+      "outages": []
+    },
+    {
+      "asn": 9617,
+      "pct": 1.1079381848886192,
+      "name": "ZAQ",
+      "outages": []
+    }
+  ]
+}

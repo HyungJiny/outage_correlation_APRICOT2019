@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "country": "SG",
+    "start": "2018-01-01T00:00:00",
+    "stop": "2019-02-23T14:07:51"
+  },
+  "isps": [
+    {
+      "asn": 9506,
+      "pct": 23.50435648118475,
+      "name": "SINGTEL-FIBRE",
+      "outages": []
+    },
+    {
+      "asn": 55430,
+      "pct": 14.67451750698432,
+      "name": "STARHUBINTERNET-AS-NGNBN",
+      "outages": []
+    },
+    {
+      "asn": 4773,
+      "pct": 12.918635032065662,
+      "name": "MOBILEONELTD-AS-AP",
+      "outages": []
+    },
+    {
+      "asn": 45143,
+      "pct": 11.852136014206163,
+      "name": "SINGTELMOBILE-AS-AP",
+      "outages": []
+    },
+    {
+      "asn": 9874,
+      "pct": 7.223068425596731,
+      "name": "STARHUB-IX",
+      "outages": []
+    },
+    {
+      "asn": 14061,
+      "pct": 5.929696837168269,
+      "name": "DIGITALOCEAN-ASN",
+      "outages": []
+    },
+    {
+      "asn": 4657,
+      "pct": 3.3047802531321047,
+      "name": "STARHUBINTERNET-AS",
+      "outages": []
+    },
+    {
+      "asn": 56300,
+      "pct": 2.9352993737676116,
+      "name": "MYREPUBLIC-SG",
+      "outages": []
+    },
+    {
+      "asn": 3758,
+      "pct": 2.8058868106636705,
+      "name": "SINGNET",
+      "outages": []
+    },
+    {
+      "asn": 10091,
+      "pct": 1.9273329135829467,
+      "name": "SCV-AS-AP",
+      "outages": []
+    },
+    {
+      "asn": 17547,
+      "pct": 1.5457873524432866,
+      "name": "M1NET-SG-AP",
+      "outages": []
+    },
+    {
+      "asn": 18106,
+      "pct": 1.096660722297417,
+      "name": "VIEWQWEST-SG-AP",
+      "outages": []
+    }
+  ]
+}

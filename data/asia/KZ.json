@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "country": "KZ",
+    "start": "2018-01-01T00:00:00",
+    "stop": "2019-02-23T15:19:35"
+  },
+  "isps": [
+    {
+      "asn": 9198,
+      "pct": 35.3170834427117,
+      "name": "KAZTELECOM-AS",
+      "outages": []
+    },
+    {
+      "asn": 48503,
+      "pct": 19.957514951933987,
+      "name": "TELE2-KZ",
+      "outages": []
+    },
+    {
+      "asn": 29355,
+      "pct": 12.663702957519932,
+      "name": "KCELL-AS",
+      "outages": []
+    },
+    {
+      "asn": 206026,
+      "pct": 12.477243963914743,
+      "name": "IPNETKAR-TEL",
+      "outages": []
+    },
+    {
+      "asn": 21299,
+      "pct": 7.619635035509732,
+      "name": "ORBITA-PLUS-AS",
+      "outages": []
+    },
+    {
+      "asn": 29555,
+      "pct": 5.6985596202809905,
+      "name": "ALTEL-AS",
+      "outages": []
+    },
+    {
+      "asn": 41798,
+      "pct": 1.3772781824480977,
+      "name": "TTC-AS",
+      "outages": []
+    },
+    {
+      "asn": 39824,
+      "pct": 1.1416611710706133,
+      "name": "ALMANET-AS",
+      "outages": []
+    }
+  ]
+}

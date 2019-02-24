@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "country": "MY",
+    "start": "2018-01-01T00:00:00",
+    "stop": "2019-02-23T15:19:59"
+  },
+  "isps": [
+    {
+      "asn": 4788,
+      "pct": 34.1732613918625,
+      "name": "TMNET-AS-AP",
+      "outages": []
+    },
+    {
+      "asn": 9534,
+      "pct": 18.90047970017519,
+      "name": "MAXIS-AS1-AP",
+      "outages": []
+    },
+    {
+      "asn": 4818,
+      "pct": 13.395948656302714,
+      "name": "DIGIIX-AP",
+      "outages": []
+    },
+    {
+      "asn": 10030,
+      "pct": 12.691152142546917,
+      "name": "CELCOMNET-AP",
+      "outages": []
+    },
+    {
+      "asn": 38466,
+      "pct": 11.517066037260129,
+      "name": "UMOBILE-AS-AP",
+      "outages": []
+    },
+    {
+      "asn": 9930,
+      "pct": 3.88246451048297,
+      "name": "TTNET-MY",
+      "outages": []
+    },
+    {
+      "asn": 38322,
+      "pct": 1.5011410975683155,
+      "name": "WEBE-MY-AS-AP",
+      "outages": []
+    }
+  ]
+}

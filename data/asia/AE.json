@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "country": "AE",
+    "start": "2018-01-01T00:00:00",
+    "stop": "2019-02-23T15:29:19"
+  },
+  "isps": [
+    {
+      "asn": 5384,
+      "pct": 69.2557844587893,
+      "name": "EMIRATES-INTERNET",
+      "outages": []
+    },
+    {
+      "asn": 197207,
+      "pct": 27.19020828929611,
+      "name": "MCCI-AS",
+      "outages": []
+    },
+    {
+      "asn": 15802,
+      "pct": 2.6084941708264906,
+      "name": "DU-AS1",
+      "outages": []
+    }
+  ]
+}

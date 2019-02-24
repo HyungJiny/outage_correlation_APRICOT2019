@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "country": "CN",
+    "start": "2018-01-01T00:00:00",
+    "stop": "2019-02-23T15:18:41"
+  },
+  "isps": [
+    {
+      "asn": 4134,
+      "pct": 40.943021760122,
+      "name": "CHINANET-BACKBONE",
+      "outages": []
+    },
+    {
+      "asn": 4837,
+      "pct": 17.025152783514592,
+      "name": "CHINA169-BACKBONE",
+      "outages": []
+    },
+    {
+      "asn": 9808,
+      "pct": 7.225930480862763,
+      "name": "CMNET-GD",
+      "outages": []
+    },
+    {
+      "asn": 4812,
+      "pct": 4.7826660157989815,
+      "name": "CHINANET-SH-AP",
+      "outages": []
+    },
+    {
+      "asn": 4808,
+      "pct": 4.039975189552423,
+      "name": "CHINA169-BJ",
+      "outages": []
+    },
+    {
+      "asn": 56040,
+      "pct": 3.624649612727332,
+      "name": "CMNET-GUANGDONG-AP",
+      "outages": []
+    },
+    {
+      "asn": 56041,
+      "pct": 2.2044132008464934,
+      "name": "CMNET-ZHEJIANG-AP",
+      "outages": []
+    },
+    {
+      "asn": 56046,
+      "pct": 2.090365175691791,
+      "name": "CMNET-JIANGSU-AP",
+      "outages": []
+    },
+    {
+      "asn": 24400,
+      "pct": 1.711400115610327,
+      "name": "CMNET-V4SHANGHAI-AS-AP",
+      "outages": []
+    },
+    {
+      "asn": 56048,
+      "pct": 1.544754599402543,
+      "name": "CMNET-BEIJING-AP",
+      "outages": []
+    },
+    {
+      "asn": 24444,
+      "pct": 1.4037801671553198,
+      "name": "CMNET-V4SHANDONG-AS-AP",
+      "outages": []
+    },
+    {
+      "asn": 56047,
+      "pct": 1.266122199951048,
+      "name": "CMNET-HUNAN-AP",
+      "outages": []
+    },
+    {
+      "asn": 17816,
+      "pct": 1.2605801401850587,
+      "name": "CHINA169-GZ",
+      "outages": []
+    },
+    {
+      "asn": 4847,
+      "pct": 1.1689141427499745,
+      "name": "CNIX-AP",
+      "outages": []
+    },
+    {
+      "asn": 24445,
+      "pct": 1.1316546173004907,
+      "name": "CMNET-V4HENAN-AS-AP",
+      "outages": []
+    }
+  ]
+}

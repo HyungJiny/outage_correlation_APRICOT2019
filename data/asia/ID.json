@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "country": "ID",
+    "start": "2018-01-01T00:00:00",
+    "stop": "2019-02-23T15:19:02"
+  },
+  "isps": [
+    {
+      "asn": 23693,
+      "pct": 26.0164918397704,
+      "name": "TELKOMSEL-ASN-ID",
+      "outages": []
+    },
+    {
+      "asn": 24203,
+      "pct": 14.011441728043451,
+      "name": "NAPXLNET-AS-ID",
+      "outages": []
+    },
+    {
+      "asn": 4761,
+      "pct": 13.55537899396677,
+      "name": "INDOSAT-INP-AP",
+      "outages": []
+    },
+    {
+      "asn": 17974,
+      "pct": 12.461350874370476,
+      "name": "TELKOMNET-AS2-AP",
+      "outages": []
+    },
+    {
+      "asn": 45727,
+      "pct": 11.346022249689769,
+      "name": "THREE-AS-ID",
+      "outages": []
+    },
+    {
+      "asn": 7713,
+      "pct": 9.990211532935708,
+      "name": "TELKOMNET-AS-AP",
+      "outages": []
+    },
+    {
+      "asn": 18004,
+      "pct": 4.311710492811904,
+      "name": "WIRELESSNET-ID",
+      "outages": []
+    },
+    {
+      "asn": 23700,
+      "pct": 2.5794118228667084,
+      "name": "FASTNET-AS-ID",
+      "outages": []
+    }
+  ]
+}
