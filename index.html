@@ -91,64 +91,6 @@
                   var xAxisGroup = d3.select('svg').append('g').call(xAxis);
 					 });
             }
-            /*
-            window.onload = function () {
-                var pad = 100;
-					 var width = 1000;
-					 var height = 1000;
-                var parseDate = d3.time.format("%Y-%m-%dT%H:%M:%S").parse;
-                var paper = Raphael("canvas", width, height);
-                var zebra = true;
-                // var r = paper.rect(0,0,10,100);
-					 // r.attr("fill", "#f00");
-					 // r.attr("stroke", "#f00");
-                d3.json("data/africa_all_country.json", function(error, data) {
-						// each 'data' is an isp
-                  xStartDate = parseDate( data['meta']['start'] );
-                  xEndDate = parseDate( data['meta']['stop'] );
-                  var x = d3.time.scale().domain([ xStartDate, xEndDate ]).range([0, width]);
-                  var xAxis = d3.svg.axis().scale(x);
-                  var y = d3.scale.linear().domain([0,100]).range([0,height]);
-                  var ynow = 0;
-	               data['isps'].forEach( function( isp ) {
-                     var ystart = ynow;
-                     var yend = ynow + isp['pct'];
-							if ( zebra ) {
-								var bg = paper.rect( 0, y(ystart), width, y( isp['pct'] ) );
-                                bg.attr('fill', '#ccc');
-                                bg.attr('stroke', '#ccc');
-							}
-							var isp_txt = paper.text( width/5, y( ynow + isp['pct']/2 ), isp['name'] + "("+ isp['asn']  +")" );
-							o = isp["outages"];
-							o.forEach( function( outage ) {
-								start = parseDate( outage[0] );
-								nd = parseDate( outage[1] );
-								// console.log( x(start), y(ystart), x(nd - start), y(yend - ystart) ); // this is your data
-								var r = paper.rect( x(start), y(ystart), x(nd) - x(start), y(yend - ystart) ); // this is your data
-                        if ( zebra ) {
-									r.attr("fill", "#d11");
-									r.attr("stroke", "#d11");
-                        } else {
-									r.attr("fill", "#f77");
-									r.attr("stroke", "#f77");
-								}
-								// r.hover( function(e) { console.log( this ); this.animate({opacity:0}, 800 ) }, function(e) {} );
-							});
-                    ynow += isp['pct'];
-							zebra = !zebra;
-				         //console.log( zebra )
-						});
-                  var xAxisGroup = d3.select('svg').append('g').call(xAxis);
-					 });
-            };
-            if(document.getElementById('africa').checked){  
-                    var data_path = document.getElementById('africa').value;
-                    drawGraph(data_path);
-                }else if(document.getElementById('africa').checked){
-                    var data_path = document.getElementById('asia').value;
-                    drawGraph(data_path);
-            };
-            */
         </script>
     </head>
     <body>
